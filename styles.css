@@ -1,0 +1,16 @@
+body{
+    color:brown;
+    background: coral;
+}
+header{
+    border-bottom:solid 2px rgb(rgb(18, 17, 17)) ;
+    padding: 20px;
+    font-size: 32px;
+    color: black;
+    background: blue;
+}
+.chamada{
+    background: burlywood;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
