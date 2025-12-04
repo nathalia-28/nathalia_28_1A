@@ -1,27 +1,27 @@
-body{
-    color:brown;
+body {
+    color: brown;
     background: coral;
 }
-header{
-    border-bottom:solid 2px rgb(rgb(18, 17, 17)) ;
+header {
+    border-bottom: solid 2px rgb(rgb(18, 17, 17));
     padding: 20px;
     font-size: 32px;
     color: black;
     background: blue;
 }
-.chamada{
+.chamada {
     background: burlywood;
     padding-bottom: 100px;
     padding-top: 100px;
     display: flex;
     justify-content: center;
 }
-.categorias_videos{
+.categorias_videos {
     display: flex;
     overflow-x: auto;
     gap: 15px;
 }
-.categorias{
+.categorias {
     padding-left: 20px;
     padding-right: 20px;
 }
